@@ -20,7 +20,7 @@ This will install `ng2-parse`, `parse` and `@types/parse` (my fork on github rep
 
 To make Parse available globally, please add `"./node_modules/parse/dist/parse.js"` to `apps.scripts` section in angular-cli.json. (webpack implementation will be available shortly)
 
-```json
+```
 {
   ...
   "apps": [
