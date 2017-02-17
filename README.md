@@ -8,10 +8,11 @@ Still in development. Currently only make Parse injectable to component.
 You have to install from github for now.
 
 ```sh
-npm install --save https://github.com/ball6847/ng2-parse.git
-```
+npm install --save parse https://github.com/ball6847/ng2-parse.git
 
-This will install `ng2-parse`, `parse` and `@types/parse` (my fork on github repo)
+# @types/parse (my fork)
+npm install --save-dev https://github.com/ball6847/typings-parse.git
+```
 
 ### Adding Parse as global dependency.
 
