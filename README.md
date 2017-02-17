@@ -18,7 +18,7 @@ This will install `ng2-parse`, `parse` and `@types/parse` (my fork on github rep
 
 `ng2-parse` does not directly import `parse` from node_modules, instead it uses Parse from global scope.
 
-To make Parse available globally, please add `"./node_modules/parse/dist/parse.js"` to `apps.scripts` section in angular-cli.json. (webpack implementation will be available shortly)
+To make Parse available globally, please add `"./node_modules/parse/dist/parse.js"` to `apps.scripts` section in `angular-cli.json`. (webpack implementation will be available shortly)
 
 ```
 {
