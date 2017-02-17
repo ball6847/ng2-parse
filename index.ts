@@ -1,2 +1,2 @@
-export * from './Service';
-export * from './QueryObservable';
+export * from './src/Service';
+export * from './src/QueryObservable';
