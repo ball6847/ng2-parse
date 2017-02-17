@@ -17,7 +17,12 @@
   },
   "homepage": "https://github.com/ball6487/ng2-parse#readme",
   "dependencies": {
-    "@types/parse": "git+https://github.com/ball6847/typings-parse.git",
-    "parse": "^1.9.2"
+    "@angular/core": "^2.4.7",
+    "parse": "^1.9.2",
+    "rxjs": "^5.1.1",
+    "zone.js": "^0.7.7"
+  },
+  "devDependencies": {
+    "@types/parse": "git+https://github.com/ball6847/typings-parse.git"
   }
 }
