@@ -1,0 +1,23 @@
+{
+  "name": "ng2-parse",
+  "version": "1.0.0",
+  "description": "angular2 service for Parse",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ball6487/ng2-parse.git"
+  },
+  "author": "Porawit Poboonma <ball6847@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ball6487/ng2-parse/issues"
+  },
+  "homepage": "https://github.com/ball6487/ng2-parse#readme",
+  "dependencies": {
+    "@types/parse": "git+https://github.com/ball6847/typings-parse.git",
+    "parse": "^1.9.2"
+  }
+}
